@@ -20,13 +20,6 @@ http://bit.ly/health-AI
 *Presentation*
 https://docs.google.com/presentation/d/1AzYq3Aj0oI-8681Km-WIyXuyVtbd9gyvvZ3ZGyDsgFc/edit?usp=sharing
 
-*Youtube Tutorial*
-https://www.youtube.com/watch?v=Yu9I_CCfR8E
-
-*Android App*
-https://drive.google.com/open?id=1KExBFZVKrkxROXO_yO_PK6IV1NXcVnLv
-
-
 ## Dependencies
 * Python 3.6
 * Tensorflow
